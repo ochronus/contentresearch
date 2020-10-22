@@ -16,3 +16,6 @@
 
 # OS X 
 .DS_Store
+
+# crawl db
+colly.db
